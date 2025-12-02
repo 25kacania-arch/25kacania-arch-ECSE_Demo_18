@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A two bit full adder that takes 5 inputs and processes them through a series of and or and xor gates into 3 outputs.
 
 ## How to test
 
-Explain how to use your project
+Attach some form of input to each of the five pins (preferably one that doesnt need to be contintually pressed) and connect 3 outputs (preferaby LEDS)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 needed LEDs (the other 5 are optional just to visualize inputs), 8 pin dip switch
